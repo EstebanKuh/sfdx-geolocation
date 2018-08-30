@@ -1,0 +1,218 @@
+[
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535654697289,
+            "changeTime": 1535654697289,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535654697290,
+            "changeTime": 1535654697290,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535656661788,
+            "changeTime": 1535656661788,
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535654697292,
+            "changeTime": 1535654697292,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535655057321,
+            "changeTime": 1535655057321,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 402,
+            "modifiedTime": 1535656661344,
+            "changeTime": 1535656661344,
+            "contentHash": "dc54d757bc8e78d955603c332e47273bc2fa8788"
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9586,
+            "modifiedTime": 1535656661481,
+            "changeTime": 1535656661481,
+            "contentHash": "698b12e8c2d61f6b2daf54d544824420755f963b"
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9634,
+            "modifiedTime": 1535656661596,
+            "changeTime": 1535656661596,
+            "contentHash": "1f0dfb9f3b090d1f3f07e99526ebf6689316549c"
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9634,
+            "modifiedTime": 1535656661695,
+            "changeTime": 1535656661695,
+            "contentHash": "045baba8afcf0fb30ca2d9895d30b822a4213a75"
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9586,
+            "modifiedTime": 1535656661779,
+            "changeTime": 1535656661779,
+            "contentHash": "ba90f816a95fa0895440e260792c50a77fcd911a"
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1535656661795,
+            "changeTime": 1535656661795,
+            "contentHash": "e5192c8749ed387aa27b8adef295bb187a14f8ba"
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535656661319,
+            "changeTime": 1535656661319,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535656661306,
+            "changeTime": 1535656661306,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535656661305,
+            "changeTime": 1535656661305,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535656661758,
+            "changeTime": 1535656661758,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Yesaira Kuh\\Desktop\\SALESFORCE\\my_sfdx_project\\sfdx-geolocation\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535656661789,
+            "changeTime": 1535656661789,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
